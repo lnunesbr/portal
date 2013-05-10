@@ -1,4 +1,4 @@
 portal
 ======
 
-Repositório do Portal da Associação Drupal Brasil
+Repositório do Portal da Associação Drupal Brasil.
